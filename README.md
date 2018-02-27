@@ -2,8 +2,6 @@
 Semester 1 Exercises Programming and Scripting
 
 
-Week 1: Exercise 1
+Exercises 1&2 File: Exercises1&2.py
 
-Week 2: Exercise 2
-
-Week 3: Exercise 3
+Exercise 3 File: Exercise3.py
