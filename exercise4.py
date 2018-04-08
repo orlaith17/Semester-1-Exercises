@@ -3,7 +3,7 @@
 # smallest positive number divisible all numbers from 1 to 20
 # http://code.jasonbhill.com/python/project-euler-problem-5/
  
-# i removed the time code in the above reference
+# I removed the time code in the above reference
 
 # function to factor a given positive integer n
 def factors(n):
