@@ -1,11 +1,6 @@
-# Semester-1-Exercises
+# Semester-1-Exercises to GitHub
 
-  Exercises 1&2 File: Exercises1&2.py
-
-  Exercise 3 File: Exercise3.py
-  
-
-  File Name | Contents
+  Exercise | Related Files
   ------------ | -------------
-  Content from cell 1 | Content from cell 2
-  Content in the first column | Content in the second column
+  1&2 | Exercises1&2.py
+  3 | Exercise3.py
